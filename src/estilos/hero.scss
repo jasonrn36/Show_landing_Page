@@ -1,0 +1,40 @@
+.hero {
+    padding-top: 64px;
+    padding-bottom: 100px;
+    background-image: url(../images/fundo.png); //imagem de fundo, não esqueça de adicionar abaixo o no-repeat e o cover para a imagem ficar melhor
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+    .container {
+        position: relative;
+        z-index: 2; //garante que o conteúdo fique acima da sobreposição
+    }
+
+
+    &::before {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5); //cor de sobreposição para escurecer a imagem de fundo
+        z-index: 1; //garante que a sobreposição fique atrás do conteúdo
+        content: ''; //necessário para criar o pseudo-elemento
+    }
+
+    &__text {
+        margin-top: 64px;
+        margin-bottom: 64px;
+        font-size: 40px;
+        line-height: 56px;
+        text-align: center;
+        color: #fff;
+    }
+
+    &__logo {
+        display: block;
+        margin: 0 auto;
+
+    }
+}

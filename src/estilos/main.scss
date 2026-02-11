@@ -1,8 +1,22 @@
-body {
-    background-color: green;
+@use 'hero'; //importando arquivo hero.scss para main.scss
+
+* { // Reset
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: open-sans, sans-serif;
 }
 
-img {
-    width: 200px;
+.container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
 
+    @media (max-width: 640px) {
+        max-width: 80%;
+    }
+    @media (max-width: 1024px) {
+        max-width: 90%;
+    }
 }
+
