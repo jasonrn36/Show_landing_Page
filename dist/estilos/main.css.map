@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;AAIA","sources":["src/estilos/main.scss"],"sourcesContent":["body {\r\n    background-color: green;\r\n}\r\n\r\nimg {\r\n    width: 200px;\r\n\r\n}"],"names":[],"version":3,"file":"main.css.map","sourceRoot":"/__parcel_source_root/"}
