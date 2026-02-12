@@ -133,6 +133,34 @@
   border-radius: 8px;
 }
 
+.event {
+  background-color: red;
+  padding: 80px 0;
+}
+
+.event .container {
+  background-color: #ff0;
+  display: flex;
+}
+
+.event__image {
+  max-width: 360px;
+}
+
+.event__details {
+  margin-right: 40px;
+}
+
+.event__details__title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.event__details__description {
+  font-size: 16px;
+  line-height: 22px;
+}
+
 * {
   box-sizing: border-box;
   color: #fff;
