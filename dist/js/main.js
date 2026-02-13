@@ -714,7 +714,7 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 }
 
 },{}],"1SICI":[function(require,module,exports,__globalThis) {
-console.log("Hello, World!");
+AOS.init();
 
 },{}]},["1iwUW","1SICI"], "1SICI", "parcelRequirec767", {})
 

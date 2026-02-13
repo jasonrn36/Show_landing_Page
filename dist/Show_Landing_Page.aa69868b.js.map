@@ -1,1 +1,1 @@
-{"mappings":"AAAA,QAAQ,GAAG,CAAC","sources":["src/js/main.js"],"sourcesContent":["console.log(\"Hello, World!\");"],"names":[],"version":3,"file":"Show_Landing_Page.aa69868b.js.map","sourceRoot":"/__parcel_source_root/"}
+{"mappings":"AAAA,IAAI,IAAI","sources":["src/js/main.js"],"sourcesContent":["AOS.init();"],"names":[],"version":3,"file":"Show_Landing_Page.aa69868b.js.map","sourceRoot":"/__parcel_source_root/"}
