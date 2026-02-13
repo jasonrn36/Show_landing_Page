@@ -10,13 +10,13 @@
     }
 
     &--ux-ui {
-        background-color: variables.$pink1;
-        background-image: linear-gradient(360deg, variables.$yellow, transparent); //para gradiente 
+        background-color: variables.$blue2;
+        background-image: linear-gradient(360deg, variables.$pink1, transparent); //para gradiente 
     }
 
     &--back-end {
-        background-color: variables.$blue1;
-        background-image: linear-gradient(360deg, variables.$blue2, transparent); //para gradiente 
+        background-color: variables.$pink1;
+        background-image: linear-gradient(360deg, variables.$yellow, transparent); //para gradiente 
     }
 
     &--image-left { // modificador para imagem à esquerda

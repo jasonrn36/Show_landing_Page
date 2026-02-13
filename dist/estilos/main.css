@@ -129,7 +129,7 @@
 
 .button--primary {
   color: #fff;
-  background-color: #4f2ac3;
+  background-color: #442bdb;
   border-radius: 8px;
 }
 
@@ -143,13 +143,13 @@
 }
 
 .event--ux-ui {
-  background-color: #89223b;
-  background-image: linear-gradient(360deg, #9c791d, #0000);
+  background-color: #442bdb;
+  background-image: linear-gradient(360deg, #89223b, #0000);
 }
 
 .event--back-end {
-  background-color: #1b6ca7;
-  background-image: linear-gradient(360deg, #442bdb, #0000);
+  background-color: #89223b;
+  background-image: linear-gradient(360deg, #9c791d, #0000);
 }
 
 .event--image-left .container {

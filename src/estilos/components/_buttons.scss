@@ -1,3 +1,4 @@
+@use 'variables';
 .button {
     padding: 12px;
     font-size: 18px;
@@ -13,8 +14,8 @@
         text-align: center;
 
             &--primary {
-        color: #fff;
-        background-color: #4f2ac3;
+        color: variables.$textColor;
+        background-color: variables.$purple;
         border-radius: 8px;
     }
     }
@@ -27,8 +28,8 @@
     }
 
     &--primary {
-        color: #fff;
-        background-color: #4f2ac3;
+        color: variables.$textColor;
+        background-color: variables.$blue2;
         border-radius: 8px;
     }
 }
