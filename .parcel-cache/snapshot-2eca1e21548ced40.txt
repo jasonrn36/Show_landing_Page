@@ -1,4 +1,4 @@
-3732
+3734
 87C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\tslib\modules\index.js134153074123879670 0
 69C:\Users\JasonDeveloper\Documents\Show_Landing_Page\sharp.config.json134153099134844966 0
 83C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\sharp\src\sharp.cc134153099249648983 0
@@ -37,7 +37,7 @@
 64C:\Users\JasonDeveloper\Documents\Show_Landing_Page\changelog.md134154616884898269 0
 83C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\sharp\src\stats.cc134153099249669359 0
 78C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\sharp\install134153099250668316 1
-56C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist134154621656513730 1
+56C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist134154681121834839 1
 83C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\msgpackr\pack.d.ts134153074157189395 0
 106C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\css3-colors.js134153074155536676 0
 115C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\font-variant-numeric.js134153074161641720 0
@@ -73,7 +73,7 @@
 113C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\lmdb\node_modules\node-addon-api\tools\README.md134153074198728705 0
 69C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@img134153099294819482 1
 90C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\transformer-babel134153074158859846 1
-66C:\Users\JasonDeveloper\Documents\Show_Landing_Page\src\index.html134154617104966214 0
+66C:\Users\JasonDeveloper\Documents\Show_Landing_Page\src\index.html134154679537967566 0
 88C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\supports-color\index.js134153074123834180 0
 109C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\scrollintoview.js134153074172739171 0
 85C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\.bin\detect-libc.ps1134153074320930798 0
@@ -131,12 +131,28 @@
 72C:\Users\JasonDeveloper\Documents\Show_Landing_Page\src\images\ui-ux.png133143344920000000 0
 78C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\.bin\sass.cmd134153096507977479 0
 85C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\term-size\index.d.ts134153074133916753 0
-74C:\Users\JasonDeveloper\Documents\Show_Landing_Page\src\estilos\components134153828648675802 1
+74C:\Users\JasonDeveloper\Documents\Show_Landing_Page\src\estilos\components134154661069727799 1
 90C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\optimizer-swc\src134153074161399610 1
 87C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\ordered-binary\LICENSE134153074123351594 0
 96C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\regions\AT.js134153074141345968 0
-73C:\Users\JasonDeveloper\Documents\Show_Landing_Page\src\estilos\main.scss134153828546384791 0
+73C:\Users\JasonDeveloper\Documents\Show_Landing_Page\src\estilos\main.scss134154668187767186 0
 74C:\Users\JasonDeveloper\Documents\Show_Landing_Page\src\estilos\_hero.scss134153150295718896 0
+88C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\simple-swizzle\index.js134153099249330626 0
+106C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\customevent.js134153074157148590 0
+74C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\commander134153074165002248 1
+96C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\regions\ML.js134153074168908100 0
+106C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\eventsource.js134153074160090267 0
+95C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\core\src\Validation.js134153074199837889 0
+94C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\lightningcss\node\ast.js.flow134153074132932218 0
+92C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\events\package.json134153074191520186 0
+85C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\type-fest\index.d.ts134153074128488762 0
+119C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@swc\helpers\_\_object_without_properties\package.json134153074153034240 0
+116C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\watcher\node_modules\detect-libc\lib\elf.js134153074124146650 0
+112C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\css-marker-pseudo.js134153074151616514 0
+74C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@lezer\lr134153074138581704 1
+96C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\utils\src\getRootDir.js134153074171981572 0
+89C:\Users\JasonDeveloper\Documents\Show_Landing_Page\src\estilos\components\variables.scss134154667614193468 0
+99C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\cors.js134153074147743042 0
 83C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\globals\index.d.ts134153074125192067 0
 106C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\sharp\node_modules\detect-libc\index.d.ts134153099249623814 0
 107C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@swc\helpers\src\_class_name_tdz_error.mjs134153074157169377 0
@@ -144,7 +160,7 @@
 96C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\core\test\test-utils.js134153074199560129 0
 103C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\svg-html.js134153074174357624 0
 107C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\msgpackr-extract\bin\download-prebuilds.js134153074124599622 0
-86C:\Users\JasonDeveloper\Documents\Show_Landing_Page\src\estilos\components\_event.scss134154629711581016 0
+86C:\Users\JasonDeveloper\Documents\Show_Landing_Page\src\estilos\components\_event.scss134154681600209436 0
 81C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\has-flag\license134153074124030627 0
 103C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\codeframe\lib\codeframe.js.map134153074146264024 0
 104C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\maxlength.js134153074168208393 0
@@ -159,7 +175,7 @@
 104C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@swc\helpers\esm\_is_native_function.js134153074147711908 0
 75C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\is-extglob134153074123930011 1
 71C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@lezer134153074119630835 1
-79C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\ebac_logo.a50a4e19.svg134154621656099796 0
+79C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\ebac_logo.a50a4e19.svg134154681121261951 0
 107C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\css-autofill.js134153074148907280 0
 84C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\immutable\README.md134153096505066713 0
 103C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\type-fest\source\conditional-pick.d.ts134153074127570265 0
@@ -212,9 +228,6 @@
 112C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@swc\helpers\esm\_apply_decorated_descriptor.js134153074145867042 0
 83C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\chrome-trace-event134153074125076727 1
 101C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\jpegxl.js134153074167112942 0
-88C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\simple-swizzle\index.js134153099249330626 0
-106C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\customevent.js134153074157148590 0
-74C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\commander134153074165002248 1
 88C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\dotenv-expand\config.js134153074135850953 0
 106C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\css-filters.js134153074150229559 0
 77C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\lmdb\LICENSE134153074138591737 0
@@ -506,7 +519,7 @@
 84C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@swc\helpers\_\_jsx134153074152402149 1
 85C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@swc\core\spack.d.ts134153074133599813 0
 107C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\script-async.js134153074172692027 0
-86C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\Show_Landing_Page.59712999.js134154621653453534 0
+86C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\Show_Landing_Page.59712999.js134154681121219039 0
 83C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\lmdb\node-index.js134153074153869440 0
 98C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\update-browserslist-db\index.d.ts134153074132836540 0
 87C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\term-size\vendor\macos134153074131859317 1
@@ -530,13 +543,6 @@
 106C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\videotracks.js134153074176345970 0
 99C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\feature-flags\package.json134153074190048067 0
 84C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\type-fest\base.d.ts134153074125277795 0
-96C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\regions\ML.js134153074168908100 0
-106C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\eventsource.js134153074160090267 0
-95C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\core\src\Validation.js134153074199837889 0
-94C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\lightningcss\node\ast.js.flow134153074132932218 0
-92C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\events\package.json134153074191520186 0
-85C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\type-fest\index.d.ts134153074128488762 0
-119C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@swc\helpers\_\_object_without_properties\package.json134153074153034240 0
 82C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\type-fest\license134153074123033351 0
 107C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\svg-fragment.js134153074174276624 0
 102C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\electron-to-chromium\full-versions.js134153074128086059 0
@@ -728,7 +734,7 @@
 103C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\transformer-babel\package.json134153074158849871 0
 102C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@swc\helpers\cjs\_read_only_error.cjs134153074143715547 0
 100C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\regions\alt-oc.js134153074134580259 0
-67C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\index.html134154621653374980 0
+67C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\index.html134154681121219039 0
 114C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@swc\helpers\_\_ts_dispose_resources\package.json134153074154166210 0
 84C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\lmdb\src\writer.cpp134153074149025827 0
 87C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\supports-color\license134153074123033351 0
@@ -738,7 +744,6 @@
 96C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\regions\LB.js134153074167592403 0
 104C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\utils\test\input\config\.testrc134153074171382758 0
 108C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\electron-to-chromium\chromium-versions.json134153074128227221 0
-118C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@swc\helpers\_\_class_private_method_get\package.json134153074151337936 0
 113C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@swc\helpers\cjs\_apply_decorated_descriptor.cjs134153074126430739 0
 89C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\node-addon-api\README.md134153074128563857 0
 114C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\css-conic-gradients.js134153074149337574 0
@@ -752,11 +757,11 @@
 101C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@swc\helpers\esm\_sliced_to_array.js134153074148940116 0
 96C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\source-map-js\lib\base64-vlq.js134153096503988699 0
 122C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\css-container-queries-style.js134153074149357567 0
+101C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\node-addon-api\tools\clang-format.js134153074127965311 0
+90C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\parcel\src\.eslintrc.json134153074192589535 0
+129C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@swc\helpers\_\_class_static_private_field_spec_get\package.json134153074151420316 0
 115C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\runtime-js\src\helpers\node\node-loader.js134153074162761299 0
 92C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\source-map-js\lib\base64.js134153096504184003 0
-90C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\parcel\src\.eslintrc.json134153074192589535 0
-101C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\node-addon-api\tools\clang-format.js134153074127965311 0
-129C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@swc\helpers\_\_class_static_private_field_spec_get\package.json134153074151420316 0
 107C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\source-map-js\lib\source-map-consumer.d.ts134153096505066713 0
 82C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\lmdb\node_modules134153074119671287 1
 84C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\sharp\lib\output.js134153099251609330 0
@@ -1756,7 +1761,6 @@
 102C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\pointer.js134153074171469266 0
 115C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\error-overlay\src\containers\StackFrame.js134153074135639543 0
 87C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\color-string\README.md134153099249633815 0
-96C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\regions\BF.js134153074145147710 0
 93C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\color-convert\conversions.js134153074123879670 0
 137C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@swc\helpers\_\_class_check_private_static_field_descriptor\package.json134153074150581554 0
 91C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\color-convert\package.json134153074123023341 0
@@ -1835,6 +1839,7 @@
 91C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\graph\src\index.js134153074148850263 0
 93C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\types\lib\index.d.ts134153074140732758 0
 96C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\regions\AZ.js134153074142861260 0
+96C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\regions\BF.js134153074145147710 0
 96C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\regions\BG.js134153074145192881 0
 96C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\regions\BH.js134153074145258932 0
 96C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\regions\BJ.js134153074145525567 0
@@ -2143,11 +2148,6 @@
 88C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\diagnostic\test134153074193085993 1
 110C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@swc\helpers\esm\_class_private_method_set.js134153074146928316 0
 111C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\cookie-store-api.js134153074147711908 0
-116C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\watcher\node_modules\detect-libc\lib\elf.js134153074124146650 0
-112C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\css-marker-pseudo.js134153074151616514 0
-74C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@lezer\lr134153074138581704 1
-96C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\utils\src\getRootDir.js134153074171981572 0
-99C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\cors.js134153074147743042 0
 99C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\packager-html\package.json134153074161190835 0
 112C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\createimagebitmap.js134153074147904002 0
 91C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\node-resolver-core134153074133926730 1
@@ -2165,7 +2165,7 @@
 104C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\watcher\src\wasm\WasmBackend.hh134153074135931254 0
 108C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\css-animation.js134153074148430669 0
 107C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\caniuse-lite\data\features\css-any-link.js134153074148572254 0
-77C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\backend.3c327b9e.png134153100259369495 0
+77C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\backend.3c327b9e.png134154681121419382 0
 95C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\core\src\loadDotEnv.js134153074196404071 0
 110C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\reporter-dev-server\src\NodeRunner.js134153074172590677 0
 136C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\workers\test\integration\workerfarm\resolve-shared-reference.js134153074144068806 0
@@ -2690,6 +2690,7 @@
 125C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@swc\helpers\_\_class_static_private_method_get\package.json134153074151546594 0
 98C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\core\test\fixtures\parcel134153074203094380 1
 118C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@swc\helpers\_\_class_private_method_set\package.json134153074151380241 0
+118C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@swc\helpers\_\_class_private_method_get\package.json134153074151337936 0
 120C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@swc\helpers\_\_class_private_field_update\package.json134153074151317961 0
 111C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\error-overlay\src\utils\stack-frame.js134153074135211950 0
 117C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@swc\helpers\_\_class_private_field_set\package.json134153074151287388 0
@@ -3099,7 +3100,7 @@
 90C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\watcher\src\macos134153074134228550 1
 92C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\bundler-default\lib134153074170816729 1
 91C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\watcher\src\shared134153074132932218 1
-90C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\Show_Landing_Page.aa69868b.js.map134154621656477043 0
+90C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\Show_Landing_Page.aa69868b.js.map134154681121669929 0
 95C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\watcher\src\Watcher.cc134153074128528769 0
 95C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\watcher\src\Watcher.hh134153074136258574 0
 92C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\@parcel\watcher\src\windows134153074137671858 1
@@ -3721,13 +3722,14 @@
 76C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\.bin\parcel134153074320950872 0
 80C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\.bin\parcel.ps1134153074320940864 0
 80C:\Users\JasonDeveloper\Documents\Show_Landing_Page\node_modules\.bin\semver.cmd134153074320940864 0
-64C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\estilos134154629710630007 1
-78C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\frontend.ffcc0254.png134154621656155272 0
-75C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\fundo.a62a0635.png134154621656024605 0
-59C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\js134154621655828198 1
-90C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\Show_Landing_Page.59712999.js.map134154621653494217 0
-86C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\Show_Landing_Page.aa69868b.js134154621656335042 0
-67C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\js\main.js134154621655447053 0
-71C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\js\main.js.map134154621655684024 0
-73C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\estilos\main.css134154629710517435 0
-77C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\estilos\main.css.map134154629710614851 0
+64C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\estilos134154681601334830 1
+78C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\frontend.ffcc0254.png134154681121458361 0
+75C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\fundo.a62a0635.png134154681121261951 0
+59C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\js134154681121834839 1
+90C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\Show_Landing_Page.59712999.js.map134154681121669929 0
+86C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\Show_Landing_Page.aa69868b.js134154681121261951 0
+75C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\ui-ux.eb833062.png134154681121261951 0
+67C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\js\main.js134154681121261951 0
+71C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\js\main.js.map134154681121669929 0
+73C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\estilos\main.css134154681601267145 0
+77C:\Users\JasonDeveloper\Documents\Show_Landing_Page\dist\estilos\main.css.map134154681601267145 0

@@ -1,10 +1,35 @@
+@use 'variables'; //importando arquivo variables.scss para event.scss
+
 .event {
-    background-color: #442bdb;
-        background-image: linear-gradient(180deg, #1b6ca7, transparent); //para gradiente 
+
     padding: 80px 0;
+
+    &--font-end {
+        background-color: variables.$blue1;
+        background-image: linear-gradient(360deg, variables.$blue2, transparent); //para gradiente 
+    }
+
+    &--ux-ui {
+        background-color: variables.$pink1;
+        background-image: linear-gradient(360deg, variables.$yellow, transparent); //para gradiente 
+    }
+
+    &--back-end {
+        background-color: variables.$blue1;
+        background-image: linear-gradient(360deg, variables.$blue2, transparent); //para gradiente 
+    }
+
+    &--image-left { // modificador para imagem à esquerda
+        .container {
+            display: flex;
+            flex-direction: row-reverse; // inverte a ordem dos elementos
+        }
+
+    }
 
     .container {
         display: flex;
+        gap: 40px; // para separar os elementos
     }
 
     &__image {
@@ -12,9 +37,6 @@
     }
 
     &__details {
-        margin-right: 40px;
-
-        margin-right: 40px;
 
         &__title {
             font-size: 18px;
@@ -35,7 +57,6 @@
             width: 100%;
         }
         &__details {
-            margin-right: 0;
             margin-bottom: 16px;
         }
     }

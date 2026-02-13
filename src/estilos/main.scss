@@ -2,13 +2,14 @@
 @use 'components/_infos_bar'; //importando arquivo infos_bar.scss para main.scss
 @use 'components/_buttons'; //importando arquivo buttons.scss para main.scss
 @use 'components/_event'; //importando arquivo event.scss para main.scss
+@use 'components/variables'; //importando arquivo variables.scss para main.scss
 
 * { // Reset
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: open-sans, sans-serif;
-    color: #fff;
+    color: variables.$textColor;
     list-style: none;
 }
 
