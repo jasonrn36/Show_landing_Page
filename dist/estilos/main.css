@@ -31,14 +31,18 @@
   line-height: 56px;
 }
 
+.hero__text--contador {
+  color: #ff0;
+}
+
 .hero__logo {
   z-index: 5;
   width: 80px;
   margin: 0 auto;
   display: flex;
   position: relative;
-  top: -15px;
-  left: 5px;
+  top: -25px;
+  left: -40px;
 }
 
 @media (width <= 640px) {

@@ -715,6 +715,22 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 
 },{}],"1SICI":[function(require,module,exports,__globalThis) {
 AOS.init();
+const dataEvento = new Date("Dec 20, 2026, 19:00:00");
+const timeStampEvento = dataEvento.getTime();
+const contaAsHoras = setInterval(function() {
+    const agora = new Date();
+    const timeStampAtual = agora.getTime();
+    const distanciaAteOEvento = timeStampEvento - timeStampAtual;
+    const diasAteOEvento = Math.floor(distanciaAteOEvento / 86400000);
+    const horasAteOEvento = Math.floor(distanciaAteOEvento % 86400000 / 3600000);
+    const minutosAteOEvento = Math.floor(distanciaAteOEvento % 3600000 / 60000);
+    const segundosAteOEvento = Math.floor(distanciaAteOEvento % 60000 / 1000);
+    console.log("diasAteOEvento", diasAteOEvento);
+    console.log("horasAteOEvento", horasAteOEvento);
+    console.log("minutosAteOEvento", minutosAteOEvento);
+    console.log("segundosAteOEvento", segundosAteOEvento);
+    document.getElementById("contador").innerHTML = `${diasAteOEvento} d, ${horasAteOEvento} h, ${minutosAteOEvento} m ${segundosAteOEvento} s`;
+}, 1000);
 
 },{}]},["1iwUW","1SICI"], "1SICI", "parcelRequirec767", {})
 
