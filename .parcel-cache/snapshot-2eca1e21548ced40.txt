@@ -1,4 +1,4 @@
-3760
+3766
 97C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\logger\LICENSE134153074192336343 0
 99C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\semver\functions\sort.js134153074144068806 0
 106C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\regions\AL.js134153074133399079 0
@@ -15,7 +15,7 @@
 106C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\regions\BY.js134153074146525613 0
 99C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\node-addon-api\nothing.c134153074122578009 0
 109C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\type-fest\ts41\delimiter-case.d.ts134153074127762257 0
-66C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist134159035474023308 1
+66C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist134159043796178935 1
 111C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\.bin\download-msgpackr-prebuilds.ps1134153074320940864 0
 115C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@mischnic\json-sourcemap\dist\index.d.ts134153074143519096 0
 109C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\colr.js134153074147359692 0
@@ -48,7 +48,7 @@
 73C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\src\estilos134154873500096474 1
 89C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\weak-lru-cache134154873498823892 1
 117C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\cryptography.js134153074148259881 0
-96C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\Logo_carangueijo.313a5e07.png134159035473039216 0
+96C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\Logo_carangueijo.313a5e07.png134159041387513513 0
 95C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\color-name\README.md134153074124030627 0
 106C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\regions\RU.js134153074172429644 0
 84C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\commander134154873333083209 1
@@ -56,10 +56,10 @@
 93C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\has-flag\readme.md134153074124393096 0
 96C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\node-releases\LICENSE134153074123043343 0
 120C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\reporter-tracer\lib\TracerReporter.js134153074171362637 0
-72C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\src\images134159016051767225 1
+72C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\src\images134159043569150899 1
 90C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\detect-libc\bin134154873333888266 1
 123C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\electron-to-chromium\full-chromium-versions.json134153074128478616 0
-76C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\src\index.html134159035403560042 0
+76C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\src\index.html134159043754037323 0
 84C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\lmdb\util134154873386891344 1
 107C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@swc\helpers\_\_get_prototype_of134154873072070022 1
 96C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\Show_Landing_Page.59712999.js134154851992824865 0
@@ -83,6 +83,10 @@
 96C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\commander\lib\help.js134153074163495195 0
 106C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\regions\SA.js134153074172530030 0
 91C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\src\images\aniver_mesa_01.png134158952197472283 0
+106C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\regions\AE.js134153074128714942 0
+95C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\node-addon-api\tools134154873402048868 1
+118C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\workers\src\threads\ThreadsChild.js134153074144513542 0
+97C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\src\images\Cantora_com_guitarra.jpg134159041243681227 0
 90C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\src\images\cantor_aniver.png134158954115283853 0
 106C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\regions\BG.js134153074145192881 0
 97C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\term-size\vendor\macos134154873485814262 1
@@ -127,6 +131,11 @@
 107C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\workers\test\integration134154873017366315 1
 87C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\src\images\Caranguejo.png134158967426635372 0
 102C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@swc\helpers\_\_await_value134154873068291844 1
+134C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\mdn-text-decoration-shorthand.js134153074168479302 0
+94C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\src\images\Palco_carangueijo.jpg134159043569130843 0
+101C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\ordered-binary\.nyc_output134154873406159372 1
+98C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@swc\helpers\_\_dispose134154873071748550 1
+109C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\type-fest\source\partial-deep.d.ts134153074133147378 0
 114C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@swc\helpers\esm\_async_to_generator.js134153074146380005 0
 119C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\xml-serializer.js134153074178013906 0
 115C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\sharp\node_modules\detect-libc\README.md134153099249603831 0
@@ -175,7 +184,7 @@
 99C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\src\estilos\components\variables.scss134154841639219081 0
 104C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\packager-html\LICENSE134153074160930565 0
 98C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\ordered-binary\index.js134153074124599622 0
-96C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\src\estilos\components\_event.scss134158958480524503 0
+96C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\src\estilos\components\_event.scss134159044342579464 0
 99C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\baseline-browser-mapping134154873081461376 1
 131C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\core\test\fixtures\invalid-distpath\package.json134153074201229171 0
 106C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\sass\types\legacy\function.d.ts134153096505754539 0
@@ -220,11 +229,6 @@
 105C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\type-fest\source\value-of.d.ts134153074136986804 0
 110C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\type-fest\source\readonly-deep.d.ts134153074134042696 0
 106C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\regions\NU.js134153074170005877 0
-92C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\tslib\SECURITY.md134153074126491228 0
-95C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\is-glob\package.json134153074123814254 0
-105C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\type-fest\ts41\camel-case.d.ts134153074126460777 0
-88C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\dotenv-expand134154873339450997 1
-119C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\serviceworkers.js134153074172939250 0
 126C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\core\test\fixtures\config-extends-not-found134154872895397964 1
 96C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\optimizer-svg134154872924527728 1
 93C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\sharp\src\stats.cc134153099249669359 0
@@ -276,6 +280,11 @@
 113C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\minmaxwh.js134153074168867864 0
 81C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\dotenv134154873336703708 1
 125C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\alternate-stylesheet.js134153074135811096 0
+92C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\tslib\SECURITY.md134153074126491228 0
+95C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\is-glob\package.json134153074123814254 0
+105C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\type-fest\ts41\camel-case.d.ts134153074126460777 0
+88C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\dotenv-expand134154873339450997 1
+119C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\serviceworkers.js134153074172939250 0
 97C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\type-fest\package.json134153074123407014 0
 106C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\commander\lib\suggestSimilar.js134153074163605599 0
 95C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\electron-to-chromium134154873341758126 1
@@ -528,7 +537,7 @@
 109C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\codeframe\lib\codeframe.js134153074140003321 0
 119C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\css-namespaces.js134153074151985065 0
 102C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\utility-types\dist\index.js134153074126973803 0
-74C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\estilos134159035474264726 1
+74C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\estilos134159044192018997 1
 94C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\sharp\src\common.cc134153099249395195 0
 113C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\codeframe\lib\codeframe.js.map134153074146264024 0
 112C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\flexbox.js134153074160551640 0
@@ -690,9 +699,6 @@
 113C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\transformer-image\package.json134153074156359135 0
 103C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\type-fest\source\opaque.d.ts134153074131547029 0
 109C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\type-fest\source\package-json.d.ts134153074132620144 0
-101C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\ordered-binary\.nyc_output134154873406159372 1
-98C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@swc\helpers\_\_dispose134154873071748550 1
-109C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\type-fest\source\partial-deep.d.ts134153074133147378 0
 99C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\nullthrows\nullthrows.js134153074149992393 0
 115C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\source-map\parcel_sourcemap_wasm134154872963179185 1
 107C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\type-fest\source\promisable.d.ts134153074133649806 0
@@ -1269,8 +1275,6 @@
 103C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\node-addon-api\noexcept.gypi134153074124659607 0
 126C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@swc\helpers\_\_class_static_private_field_spec_get134154873070600745 1
 110C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\node-addon-api\package-support.json134153074128337947 0
-106C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\regions\AE.js134153074128714942 0
-95C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\node-addon-api\tools134154873402048868 1
 108C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\graph\test\BitSet.test.js134153074148259881 0
 99C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\commander\lib\command.js134153074163204719 0
 120C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\css-text-indent.js134153074154211578 0
@@ -1490,6 +1494,7 @@
 117C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\lmdb\node_modules\node-addon-api\nothing.c134153074198158147 0
 128C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\lmdb\node_modules\node-addon-api\package-support.json134153074198601641 0
 109C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\wasm.js134153074177161693 0
+101C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\Carangueijo Cançando.8ffa5e38.jpg134159043796092190 0
 120C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\lmdb\node_modules\node-addon-api\package.json134153074198611638 0
 117C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\lmdb\node_modules\node-addon-api\README.md134153074198698729 0
 95C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@img\sharp-win32-x64134154872851719125 1
@@ -1539,7 +1544,6 @@
 109C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\lmdb\dependencies\lz4\lib\Makefile134153074140068639 0
 127C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\declarative-shadow-dom.js134153074158187594 0
 109C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\lmdb\dependencies\lz4\lib\xxhash.h134153074153536652 0
-106C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\regions\AO.js134153074137288585 0
 112C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\lmdb\dependencies\lz4\lib\dll\example134154873377395901 1
 115C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\lmdb\dependencies\lz4\lib\dll\liblz4.def134153074149092645 0
 122C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\input-file-accept.js134153074166522735 0
@@ -1686,6 +1690,7 @@
 88C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\color\LICENSE134153099249310626 0
 117C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\lightningcss\node\browserslistToTargets.js134153074133775814 0
 111C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\lightningcss\node\composeVisitors.js134153074134032576 0
+100C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\Cantora_com_guitarra.e00a9ead.jpg134159043796150179 0
 106C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\transformer-raw\LICENSE134153074150707051 0
 100C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\dotenv\lib\env-options.js134153074138833593 0
 101C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\lightningcss\node\index.js134153074134349079 0
@@ -1694,6 +1699,7 @@
 92C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\core\test134154872899100864 1
 108C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\lightningcss\node\targets.js.flow134153074133609890 0
 111C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\mathml.js134153074168178427 0
+97C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\Palco_carangueijo.e87a837f.jpg134159043796092190 0
 99C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\json5\lib\stringify.d.ts134153074128848293 0
 84C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\json5\lib134154873358240144 1
 117C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\documenthead.js134153074159061055 0
@@ -1896,6 +1902,7 @@
 110C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\regions\alt-as.js134153074134138093 0
 132C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\css-container-queries-style.js134153074149357567 0
 110C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\regions\alt-eu.js134153074134379339 0
+106C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\regions\AO.js134153074137288585 0
 103C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\transformer-node\src134154872972951824 1
 117C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\script-defer.js134153074172712035 0
 106C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\regions\AS.js134153074140249590 0
@@ -1958,8 +1965,6 @@
 120C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@swc\helpers\_\_unsupported_iterable_to_array134154873078079918 1
 122C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\transformer-sass\lib\SassTransformer.js134153096507408784 0
 120C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\getrandomvalues.js134153074162711399 0
-111C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\watcher\src\watchman\BSER.hh134153074133529413 0
-112C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@swc\helpers\_\_defaults\package.json134153074151703271 0
 106C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\regions\FK.js134153074160481672 0
 112C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@mischnic\json-sourcemap\package.json134153074143431610 0
 112C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\netinfo.js134153074169710148 0
@@ -2169,7 +2174,7 @@
 111C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\brotli.js134153074145982570 0
 99C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\packager-raw\lib134154872936124666 1
 120C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\canvas-blending.js134153074146666705 0
-83C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\estilos\main.css134159035474234721 0
+83C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\estilos\main.css134159044191993378 0
 112C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\ch-unit.js134153074146837910 0
 116C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@swc\helpers\_\_class_private_method_init134154873070295588 1
 121C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\childnode-remove.js134153074146948323 0
@@ -2330,11 +2335,11 @@
 119C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\css3-boxsizing.js134153074155445761 0
 122C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\css3-cursors-grab.js134153074155743691 0
 117C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\css3-tabsize.js134153074156122420 0
-69C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\js134159035473852892 1
+69C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\js134159041388617683 1
 122C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\custom-elementsv1.js134153074157083326 0
 121C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\domcontentloaded.js134153074159152307 0
 113C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\datalist.js134153074157602777 0
-87C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\estilos\main.css.map134159035474254729 0
+87C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\estilos\main.css.map134159044192018997 0
 114C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\dom-range.js134153074159137232 0
 115C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\decorators.js134153074158207680 0
 123C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@swc\helpers\_\_array_like_to_array\package.json134153074149696802 0
@@ -2378,7 +2383,7 @@
 126C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\font-family-system-ui.js134153074161137558 0
 85C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\ui-ux.eb833062.png134159035473039216 0
 121C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\webkit-user-drag.js134153074177468358 0
-110C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\Caranguejo_banda_Supercombo.59712999.js.map134159035473827859 0
+110C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\Caranguejo_banda_Supercombo.59712999.js.map134159041388921629 0
 105C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\runtime-service-worker134154872957800903 1
 121C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\font-size-adjust.js134153074161490131 0
 109C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\graph\lib\shared-buffer.js134153074148907280 0
@@ -2468,7 +2473,6 @@
 101C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\cache\src\types.js134153074144210327 0
 130C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\mdn-text-decoration-color.js134153074168444158 0
 99C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@swc\helpers\_\_decorate134154873071391801 1
-134C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\mdn-text-decoration-shorthand.js134153074168479302 0
 98C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\transformer-svg134154872979629876 1
 130C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\caniuse-lite\data\features\mdn-text-decoration-style.js134153074168499370 0
 114C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@swc\helpers\_\_call_super\package.json134153074150098036 0
@@ -2741,6 +2745,8 @@
 119C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@swc\helpers\_\_define_property\package.json134153074151748412 0
 148C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\transformer-react-refresh-wrap\lib\ReactRefreshWrapTransformer.js134153074151058946 0
 132C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@swc\helpers\_\_define_enumerable_properties\package.json134153074151723228 0
+111C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\watcher\src\watchman\BSER.hh134153074133529413 0
+112C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@swc\helpers\_\_defaults\package.json134153074151703271 0
 112C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@swc\helpers\_\_decorate\package.json134153074151683206 0
 139C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@swc\helpers\_\_create_for_of_iterator_helper_loose\package.json134153074151626380 0
 115C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\core\src\requests\PathRequest.js134153074198337142 0
@@ -3101,7 +3107,6 @@
 115C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\profiler\lib\SamplingProfiler.js134153074143209935 0
 98C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\workers\src\web134154873016279842 1
 104C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\workers\src\Worker.js134153074145435229 0
-118C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\workers\src\threads\ThreadsChild.js134153074144513542 0
 108C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\workers\lib\childState.js134153074139705729 0
 106C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\workers\lib\cpuCount.js134153074140908564 0
 103C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\workers\lib\index.js134153074141801719 0
@@ -3298,7 +3303,7 @@
 108C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\core\lib\public\Config.js134153074194764485 0
 105C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\core\src\buildCache.js134153074194100859 0
 111C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\transformer-babel\src\jsx.js134153074158698954 0
-77C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\index.html134159035473039216 0
+77C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\index.html134159043796073052 0
 125C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\transformer-babel\src\remapAstLocations.js134153074158744050 0
 113C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\transformer-babel\src\types.js134153074158789419 0
 122C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\node_modules\@parcel\core\lib\requests\WriteBundleRequest.js134153074199949344 0
@@ -3752,10 +3757,11 @@
 100C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\Aniver_JasonDeveloper.59712999.js134158954487019746 0
 104C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\Aniver_JasonDeveloper.aa69868b.js.map134158954484857853 0
 87C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\backend.3c327b9e.png134158946904564889 0
-98C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\CArangueijo_Hero05.ba2caf52.png134159035473451139 0
-106C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\Caranguejo_banda_Supercombo.59712999.js134159035473039216 0
-106C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\Caranguejo_banda_Supercombo.aa69868b.js134159035473039216 0
-110C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\Caranguejo_banda_Supercombo.aa69868b.js.map134159035473827859 0
+98C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\CArangueijo_Hero05.ba2caf52.png134159041387998463 0
+106C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\Caranguejo_banda_Supercombo.59712999.js134159041388336549 0
+106C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\Caranguejo_banda_Supercombo.aa69868b.js134159043796092190 0
+110C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\Caranguejo_banda_Supercombo.aa69868b.js.map134159043796092190 0
 97C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\Caranguejo_hero02.4b6065cd.png134158985016650962 0
-77C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\js\main.js134159035473039216 0
-81C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\js\main.js.map134159035473827859 0
+91C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\Guitarrista.a1d657fa.jpg134159041387573229 0
+77C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\js\main.js134159041388118708 0
+81C:\Users\JasonDeveloper\Documents\Caranguejo_banda_Supercombo\dist\js\main.js.map134159041388382788 0
