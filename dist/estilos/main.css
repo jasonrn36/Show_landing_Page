@@ -1,2 +1,230 @@
-.hero{background-image:url(../CArangueijo_Hero05.123c194e.png);background-repeat:no-repeat;background-size:cover;padding-top:64px;padding-bottom:100px;position:relative}.hero .container{z-index:2;position:relative}.hero:before{z-index:1;content:"";background-color:#00000080;width:100%;height:100%;position:absolute;top:0;left:0}.hero__text{text-align:center;text-shadow:4px 1px 2px #a412ffb3;margin-top:64px;margin-bottom:0;font-size:40px;line-height:56px}.hero__text--contador{color:#ff0}.hero__logo{z-index:5;width:80px;margin:0 auto;display:flex;position:relative;top:-25px;left:-40px}@media (width<=640px){.hero__logo{height:40px}.hero__text{margin:24px 0;font-size:22px;line-height:24px}}.infos-bar{z-index:4;background-color:#fff;border-radius:16px;justify-content:space-between;padding:16px 24px;display:flex}.infos-bar__infos{gap:40px;display:flex}.infos-bar__infos__item{color:#000;font-size:14px}.infos-bar__infos__item b{color:#000;font-size:18px;display:block}@media (width<=640px){.infos-bar{display:block}.infos-bar__infos{align-items:center;display:block}.infos-bar__infos__item{width:100%;margin-bottom:24px}}@media (width<=1024px){.infos-bar__infos{gap:16px}}.button{text-align:center;white-space:nowrap;padding:12px;font-size:18px;font-weight:700;text-decoration:none}@media (width<=640px){.button{text-align:center;align-items:center;width:auto;display:flex}.button--primary{color:#fff;background-color:#4f2ac3;border-radius:8px}}@media (width<=1024px){.button{text-align:center;align-items:center;display:flex}}.button--primary{color:#fff;background-color:#442bdb;border-radius:8px}.event{padding:80px 0}.event--show{background-color:#1b6ca7;background-image:linear-gradient(360deg,#442bdb,#0000)}.event--Palco{background-color:#442bdb;background-image:linear-gradient(360deg,#89223b,#0000)}.event--Musica{background-color:#89223b;background-image:linear-gradient(360deg,#9c791d,#0000)}.event--image-left .container{flex-direction:row-reverse;display:flex}.event .container{gap:40px;display:flex}.event__image{max-width:360px}.event__details__title{margin-bottom:16px;font-size:18px;font-weight:700}.event__details__description{font-size:16px;line-height:22px}@media (width<=640px){.event .container{display:block}.event__image{width:100%}.event__details{margin-bottom:16px}}*{box-sizing:border-box;color:#fff;margin:0;padding:0;font-family:open-sans,sans-serif;list-style:none}.container{width:100%;max-width:960px;margin:0 auto}@media (width<=640px){.container{max-width:80%}}@media (width<=1024px){.container{max-width:90%}}
+.hero {
+  background-image: url("../CArangueijo_Hero05.ba2caf52.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 64px;
+  padding-bottom: 100px;
+  position: relative;
+}
+
+.hero .container {
+  z-index: 2;
+  position: relative;
+}
+
+.hero:before {
+  z-index: 1;
+  content: "";
+  background-color: #00000080;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.hero__text {
+  text-align: center;
+  text-shadow: 4px 1px 2px #a412ffb3;
+  margin-top: 64px;
+  margin-bottom: 0;
+  font-size: 40px;
+  line-height: 56px;
+}
+
+.hero__text--contador {
+  color: #ff0;
+}
+
+.hero__logo {
+  z-index: 5;
+  width: 80px;
+  margin: 0 auto;
+  display: flex;
+  position: relative;
+  top: -25px;
+  left: -40px;
+}
+
+@media (width <= 640px) {
+  .hero__logo {
+    height: 40px;
+  }
+
+  .hero__text {
+    margin: 24px 0;
+    font-size: 22px;
+    line-height: 24px;
+  }
+}
+
+.infos-bar {
+  z-index: 4;
+  background-color: #fff;
+  border-radius: 16px;
+  justify-content: space-between;
+  padding: 16px 24px;
+  display: flex;
+}
+
+.infos-bar__infos {
+  gap: 40px;
+  display: flex;
+}
+
+.infos-bar__infos__item {
+  color: #000;
+  font-size: 14px;
+}
+
+.infos-bar__infos__item b {
+  color: #000;
+  font-size: 18px;
+  display: block;
+}
+
+@media (width <= 640px) {
+  .infos-bar {
+    display: block;
+  }
+
+  .infos-bar__infos {
+    align-items: center;
+    display: block;
+  }
+
+  .infos-bar__infos__item {
+    width: 100%;
+    margin-bottom: 24px;
+  }
+}
+
+@media (width <= 1024px) {
+  .infos-bar__infos {
+    gap: 16px;
+  }
+}
+
+.button {
+  text-align: center;
+  white-space: nowrap;
+  padding: 12px;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+@media (width <= 640px) {
+  .button {
+    text-align: center;
+    align-items: center;
+    width: auto;
+    display: flex;
+  }
+
+  .button--primary {
+    color: #fff;
+    background-color: #4f2ac3;
+    border-radius: 8px;
+  }
+}
+
+@media (width <= 1024px) {
+  .button {
+    text-align: center;
+    align-items: center;
+    display: flex;
+  }
+}
+
+.button--primary {
+  color: #fff;
+  background-color: #442bdb;
+  border-radius: 8px;
+}
+
+.event {
+  padding: 80px 0;
+}
+
+.event--show {
+  background-color: #1b6ca7;
+  background-image: linear-gradient(360deg, #442bdb, #0000);
+}
+
+.event--Palco {
+  background-color: #442bdb;
+  background-image: linear-gradient(360deg, #89223b, #0000);
+}
+
+.event--Musica {
+  background-color: #89223b;
+  background-image: linear-gradient(360deg, #9c791d, #0000);
+}
+
+.event--image-left .container {
+  flex-direction: row-reverse;
+  display: flex;
+}
+
+.event .container {
+  gap: 40px;
+  display: flex;
+}
+
+.event__image {
+  max-width: 360px;
+}
+
+.event__details__title {
+  margin-bottom: 16px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.event__details__description {
+  font-size: 16px;
+  line-height: 22px;
+}
+
+@media (width <= 640px) {
+  .event .container {
+    display: block;
+  }
+
+  .event__image {
+    width: 100%;
+  }
+
+  .event__details {
+    margin-bottom: 16px;
+  }
+}
+
+* {
+  box-sizing: border-box;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  font-family: open-sans, sans-serif;
+  list-style: none;
+}
+
+.container {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+@media (width <= 640px) {
+  .container {
+    max-width: 80%;
+  }
+}
+
+@media (width <= 1024px) {
+  .container {
+    max-width: 90%;
+  }
+}
 /*# sourceMappingURL=main.css.map */
