@@ -1,9 +1,7 @@
 {
-    "build":
-    {
-        "env":
-{
-        "npm_config_ignore_platform": "true" 
+    "build":{
+        "env":{
+    "npm_config_ignore_platform": "true" 
         }
     }
 }
